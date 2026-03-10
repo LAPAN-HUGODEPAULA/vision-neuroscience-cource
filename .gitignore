@@ -39,5 +39,8 @@ htmlcov/
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
 
+# Downloaded dataset archives
+lectures/massive_datasets/nih-cxr/images/*.tar.gz
+
 # Local agent instructions
 AGENT.md
