@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata from this file."
+title: "Vision Neuroscience Cource"
+type: software
+authors:
+  - family-names: "de Paula"
+    given-names: "Hugo"
+    affiliation: "UFMG"
+repository-code: "https://github.com/LAPAN-HUGODEPAULA/vision-neuroscience-cource"
+url: "https://github.com/LAPAN-HUGODEPAULA/vision-neuroscience-cource"
+abstract: "Teaching materials, lecture presentations, and supporting code for a vision neuroscience course."
+keywords:
+  - vision neuroscience
+  - computer vision
+  - neurovision
+  - teaching materials
+date-released: 2026-03-10
